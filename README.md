@@ -14,3 +14,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenkasarci&show_icons=true&locale=en&layout=compact" alt="erenkasarci" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenkasarci&show_icons=true&locale=en" alt="erenkasarci" /></p>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6601704f6deb533d6e2eb49d?variant=light)](https://roadmap.sh)
