@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ziya Eren Kasarcı</h1>
+<h1 align="center">Hi👋, I'm Ziya Eren Kasarcı</h1>
 <h3 align="center">A unity game developer from Turkey</h3>   
 
-- 🔭 I am currently developing prototypes with different game mechanics. 
+- 🔭 🔭 Currently working on game development project at Solea Games, contributing to gameplay programming, design, and interactive systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
